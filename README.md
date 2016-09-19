@@ -12,3 +12,6 @@ git commit -m "..." - commit the staged files to the repository version control 
 git branch - displaying what branch is checked out
 git checkout -b <branch name> - moves the user between branches and it creates and checks out a new branch
 subl <file name> - opens up the designated file with sublime text editor.   
+
+
+Change, change, change
